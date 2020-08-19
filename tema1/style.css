@@ -1,0 +1,21 @@
+/* 
+	Theme Name:Blog Posener
+	Theme URI:aqui fica onde a pessoa pode encontrar seu tema
+	Author:Larissa Posener
+	Author URI:MEU GIThub
+	Description:Tema da Larissa Posener
+	version:1.0
+	License:MIT
+	tags:programaçao, cursos, catègorias, tags, posts(as tags do site)
+	text domain:tema1 (apelido para o tema)
+*/
+
+.footer{
+	height: 60px;
+	background-color: black;
+	color: white;
+}
+
+.footer .container{
+	padding-top: 20px;
+}
